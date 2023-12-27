@@ -5,7 +5,8 @@
 TheAINewsroom is a GenerativeAI project that creates a newsroom experience by fetching the latest news using the [NewsAPI](https://newsapi.org/). Additionally, it generates a video based on the fetched news using the [D-ID](https://www.d-id.com/). This project consists of three main files: `app.py`, `get_news.py`, and `news_video.py`. To use this project, you'll need API keys for both D-ID and NewsAPI.
 
 ![image](https://github.com/Iamkartikey44/TheAINewsroom/assets/68707728/71cef146-dd9d-42d3-92ea-f88741374119)
-![Uploading image.png…]()
+![image](https://github.com/Iamkartikey44/TheAINewsroom/assets/68707728/e3b24ea1-2924-48ee-86e4-fdd9db8c78aa)
+
 
 ## Prerequisites
 
